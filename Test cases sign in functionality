@@ -1,0 +1,92 @@
+
+
+verify sign functionality on macys.com
+
+
+Step 1) Navigate to chrome browser
+	 2) launch to macys URL
+	 3) Naviagtge to sign in button 
+	 4) Navigae to crate profile
+	 5) Enter all the details 
+	 6) Click on Create button
+	 
+	 =======================
+Steps:-  1) Launch the browser 
+		 2) Enter the maycs.com URL
+		 3) Click on sign-in link
+		 4) Enter the email address
+		 5) Enter the password 
+		 6) Click on the sign-in button
+		 7) User should land on myAccount page 
+		 
+Expected result 
+		 
+		 User should be sign in 
+		 ===========================
+		 Varify the sign functionality with invalid credential
+		 
+		===============================================================------------------
+		
+Steps:-  1) Launch the browser 
+		 2) Enter the maycs.com URL
+		 3) Click on sign-in link
+		 4) Enter the email address
+		 5) Enter the password 
+		 6) Click on the sign-in button
+		 7) User should land on myAccount page 
+		 -------------------------------------------
+Non functional:-
+		  1)Macys sign in page should open 
+		  2)Verify all the textboxes, buttons, and links are present on the Login page as per the com.
+		  3)Check the font type and size of the logos and the text should be clearly visible.
+		  4)Verify that the size, color, and UI of the different elements are as per the com.
+		  5)Verify the macys logo link when mouse over the macys icon.
+		  6)Verify the minimize and maximize Macys UI page.
+		  7)Verify the Email address textbox when the enter the valid email
+		  8)Verify the Password textbox when the enter the valid password.
+		  9)verify the email address textbox when the blankly clink on sign in button server message should be shown with red color.
+		 10)verify the password textbox withaught entering any valid password clicking on sign button server message should be shown with red color.
+		 11)Verify the Sign in button when mouse hover the sign in color should be change 
+		 12)Verify the create account button when mouse hover the create account button color should be grey. 
+functional:-
+		
+		13)Username should contain letter, number and period.
+		14)Username should not be left blank.
+		15)Username should not be more than 40 characters.
+		16)Username should not start with or contain any symbols.
+		17)Password should be atleast 6 characters.
+		18)Password should contain combination of letter, numbers and symbols.
+		19)Password should not contain spaces and period.
+		20)Password should not be more than 40 characters.
+	    21)Verify when enter existing user id sriver side should shown existing user id message.
+		22)Verify server side link "Reset It Now" whether its working or not.
+		23)Varify Remember Me Checkbox whether its clickebale or not 
+		24)Varify the password textbox shown link whether its shown or not
+		26)verify forgot password link works and it redirect to valid password recovery page?
+		27)Verify forward and backward buttons work properly while logged in and also for logged out user.
+		28)Verify email id and password should not copy pate.
+		29)Verify macys sign in page open in different browser at the same time
+		30)Enter valid username and password.
+		31)Click on forgot password link and retrieve the password for the username.
+		32)Verify sign in button after typing correct username and password.
+		33)Verify tab button to navigate from username texttextbox to password texttextbox and then to login button.
+		34)Varify scroll dropdown and downup button 
+		
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
