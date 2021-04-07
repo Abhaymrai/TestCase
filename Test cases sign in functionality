@@ -58,7 +58,7 @@ functional:-
 		18)Password should contain combination of letter, numbers and symbols.
 		19)Password should not contain spaces and period.
 		20)Password should not be more than 40 characters.
-	    21)Verify when enter existing user id sriver side should shown existing user id message.
+	    	21)Verify when enter existing user id sriver side should shown existing user id message.
 		22)Verify server side link "Reset It Now" whether its working or not.
 		23)Varify Remember Me Checkbox whether its clickebale or not 
 		24)Varify the password textbox shown link whether its shown or not
